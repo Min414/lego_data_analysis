@@ -15,9 +15,9 @@
 ![Feature importance](charts/chart6_feature_importance.png)
 
 ## Data
-- **Rebrickable** (sets, themes): [link]
-- **Kaggle "kagglesetsdb"** (retail prices, piece counts): [link]
-- **FRED CPIAUCSL** (US inflation data): [link]
+- **Rebrickable** (sets, themes): [https://rebrickable.com/downloads/]
+- **Kaggle "kagglesetsdb"** (retail prices, piece counts): [https://www.kaggle.com/datasets/alexracape/lego-sets-and-prices-over-time/data]
+- **FRED CPIAUCSL** (US inflation data): [https://fred.stlouisfed.org/series/CPIAUCSL]
 
 ## Method
 1. Merged the three datasets on set number (14,101 of 14,936 Kaggle sets matched).
@@ -35,5 +35,5 @@
 
 ## How to Run
 1. Download the datasets from the links above.
-2. Open `lego_price_analysis.ipynb` in Google Colab.
+2. Open `Legoanalysis.ipynb` in Google Colab.
 3. Run all cells from top to bottom.
