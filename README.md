@@ -32,8 +32,9 @@
 - Regression residuals are not normal (some outliers).
 - Theme coefficients depend on the baseline ("Other"), and random forest importance can understate dummy-coded themes.
 - Resale price was left out on purpose to keep the project focused.
+- The dataset only contained prices up to 2023, leaving later years out of the analysis.
 
 ## How to Run
 1. Download the datasets from the links above.
-2. Open `Legoanalysis.ipynb` in Google Colab.
+2. Open `LegoAnalysis.ipynb` in Google Colab.
 3. Run all cells from top to bottom.
