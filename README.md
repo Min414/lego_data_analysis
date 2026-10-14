@@ -36,5 +36,5 @@
 
 ## How to Run
 1. Download the datasets from the links above.
-2. Open `LegoAnalysis.ipynb` in Google Colab.
+2. Open `LegoAnalysis.ipynb` in Google Colab or Jupyter Notebook.
 3. Run all cells from top to bottom.
