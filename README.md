@@ -7,7 +7,7 @@
 ## Key Findings
 1. **Price rises with piece count, but less than proportionally.** A 10% increase in pieces raises price by about 6%, so bigger sets are cheaper per piece.
 2. **Real prices fell about 2.3% per year** (inflation-adjusted, 2023 USD), controlling for size and theme. Price per piece for medium, large, and huge sets dropped about 30% from 2011 to 2023.
-3. **Theme matters beyond size.** At the same piece count and year, Dimensions sets cost about 21% more than the baseline, while Mixels, DOTS, and Brickheadz cost 55-70% less.
+3. **Theme matters more than size.** At the same piece count and year, Dimensions sets cost about 21% more than the baseline, while Mixels, DOTS, and Brickheadz cost 55-70% less.
 4. **A random forest predicts price better than linear regression** (R² 0.90 vs. 0.74, MAE about $12 vs. $21). Piece count accounts for about 90% of the forest's feature importance.
 
 ![Price per piece by year](charts/chart1_price_per_piece.png)
